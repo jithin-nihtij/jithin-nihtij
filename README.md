@@ -4,7 +4,7 @@
 <img src="https://media1.tenor.com/m/kxiro8Eecb8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithin-nihtij&label=Profile%20views&color=0e75b6&style=flat" alt="jithin-nihtij" /> </p>
 
-- Currently learning **3js**
+- Trying to learn **Three.js and React three-fiber** at the moment
 
 - 👨‍💻 All of my projects are available at [https://github.com/jithin-nihtij](https://github.com/jithin-nihtij)
 
