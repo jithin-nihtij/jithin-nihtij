@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **jithinpnihtij@gmail.com**
 
+- All about me : [https://drive.google.com/file/d/1c4gC8IuYoSJr8Wjtv5S4T_sHsS0r9Pow/view?usp=sharing]
+
   
 
 <h3 align="left">Connect with me:</h3>
