@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jithin</h1>
 <h3 align="center">I'm a MERN Stack Developer</h3>
 
-<img align="right" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif">
+<img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithin-nihtij&label=Profile%20views&color=0e75b6&style=flat" alt="jithin-nihtij" /> </p>
 
 - Currently learning **3js**
