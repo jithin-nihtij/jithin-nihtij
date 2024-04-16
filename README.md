@@ -4,11 +4,9 @@
 <img src="https://media1.tenor.com/m/kxiro8Eecb8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithin-nihtij&label=Profile%20views&color=0e75b6&style=flat" alt="jithin-nihtij" /> </p>
 
-- Trying to learn **Three.js and React three-fiber** at the moment
+- Currently learning **Next.js and TypeScript** at the moment
 
 - 👨‍💻 All of my projects are available at [https://github.com/jithin-nihtij](https://github.com/jithin-nihtij)
-
-- 💬 Ask me about **React.js,Javascript**
 
 - 📫 How to reach me **jithinpnihtij@gmail.com**
 
