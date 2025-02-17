@@ -10,9 +10,7 @@
 
 - 📫 How to reach me **jithinpnihtij@gmail.com**
 
-- All about me : [https://drive.google.com/file/d/1c4gC8IuYoSJr8Wjtv5S4T_sHsS0r9Pow/view?usp=sharing]
-
-  
+- All about me : [https://drive.google.com/file/d/1aydGQTfNKuJj2NiV84Od8M1l74qkVjjw/view?usp=drivesdk]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
